@@ -8,3 +8,7 @@ function whisper(word){
 function logShout(word) {
   console.log(shout(word))
 }
+
+function logWhisper(word){
+  console.log(whisper(word))
+}
